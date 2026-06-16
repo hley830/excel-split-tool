@@ -1,4 +1,7 @@
 import streamlit as st
+
+st.write("程序已启动")
+import streamlit as st
 import pandas as pd
 import io
 import os
